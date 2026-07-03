@@ -10,6 +10,18 @@
 
 Turordnat partykortspel för vänner på **en delad skärm**. Lägg till spelare, välj kategorier, dra kort i turordning.
 
+**Stack:** Python · Flet · pytest
+
+## Kör lokalt
+
+```bash
+git clone https://github.com/linneaegner/rundan.git
+cd rundan
+./run.sh
+```
+
+Öppna http://127.0.0.1:8550 i webbläsaren. Kräver Python 3.11+.
+
 ## Screenshots
 
 <p align="center">
