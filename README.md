@@ -14,13 +14,19 @@ Turordnat partykortspel för vänner på **en delad skärm**. Lägg till spelare
 
 ## Kör lokalt
 
+Enklast: [spela i webbläsaren](https://linneaegner.github.io/rundan/).
+
+För att köra på den egna datorn (Mac eller Linux, Python 3.11+):
+
 ```bash
 git clone https://github.com/linneaegner/rundan.git
 cd rundan
 ./run.sh
 ```
 
-Öppna http://127.0.0.1:8550 i webbläsaren. Kräver Python 3.11+.
+Skriptet skapar en virtuell miljö, installerar beroenden och startar spelet. Öppna sedan http://127.0.0.1:8550.
+
+På Windows: använd WSL, eller spela via länken ovan.
 
 ## Screenshots
 
